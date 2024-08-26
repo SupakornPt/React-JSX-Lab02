@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    
+}
+
+body {
+    background-color: #23272F;
+}
+
+.li {
+    color: white;
+}
+
+.inner {
+    border-radius: 15px;
+    padding: 20px 20px 20px 50px;
+    color: white;
+    margin-top: 20px;
+    line-height: 30px;
+    font-size: small;
+    width: 95%;
+    margin-left: 2.5%;
+    background-color: #343A46;
+}
+
+.outer {
+    background-color: #23272F;
+}
+
+.head {
+    margin-left: 30px;
+    color: white;
+    line-height: 50px;
+}
